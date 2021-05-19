@@ -2,9 +2,9 @@
 
 I useed these libraries
 
--dlib
--cmake
--numpy
--face-recognition
--opencv-python 
--pip
+#dlib
+#cmake
+#numpy
+#face-recognition
+#opencv-python 
+#pip
